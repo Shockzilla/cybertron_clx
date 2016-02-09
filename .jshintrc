@@ -1,0 +1,12 @@
+{
+  "browser": true,
+  "curly": true,
+  "freeze": true,
+  "futurehostile": true,
+  "latedef": true,
+  "noarg": true,
+  "nonbsp": true,
+  "shadow": "innter",
+  "undef": true,
+  "unused": true
+}
